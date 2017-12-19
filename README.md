@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="500"" src="https://pbs.twimg.com/media/DRXcpteXkAEWE6r.png">
+  <img width="100%" height="auto" style="width:100%;height:auto;" src="https://pbs.twimg.com/media/DRXcpteXkAEWE6r.png">
 </p>
 
 
